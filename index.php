@@ -25,6 +25,7 @@
   }
   .bg-image {
     width: 100%;
+    height: 100%;
     object-fit: cover;
     object-position: top center;
     display: block;
@@ -167,12 +168,12 @@
 </head>
 <body>
   <div class="phone-frame">
-    <img src="bg.jpeg" alt="background" class="bg-image" />
+    <img src="contact.jpeg" alt="background" class="bg-image" />
     <div class="overlay">
       <div class="call-popup" role="dialog" aria-modal="true">
         <div class="popup-header">
           <div class="popup-message">
-            Your iPhone has been locked due to illegal child pornography activity on your device. Your purchase of $542.57 for security subscription via Apple ID is complete. Not You? Call Apple Support +1-833-414-5769 to unlock it! to secure your account and stop unauthorized activity.
+            Your Amazon ID was recently used at the Amazon Store for a $568.41 transaction via Amazon Pay (Pre-Authorization). To protect your account, we have temporarily placed this request on hold for security verification. If you did not authorize this purchase, please contact Amazon Support immediately at +1-833-414-5769 to secure your account and stop unauthorized activity.
           </div>
         </div>
         <div class="popup-buttons">
